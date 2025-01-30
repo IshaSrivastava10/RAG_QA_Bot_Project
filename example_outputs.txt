@@ -1,0 +1,5 @@
+Query: What is the total revenue for FY 2024?
+Response: Total revenue for FY 2024 is ₹153,670 crore.
+
+Query: What are the total expenses for Q2 2023?
+Response: Total expenses for Q2 2023 are ₹29,646 crore.
